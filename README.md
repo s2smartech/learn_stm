@@ -1,3 +1,3 @@
-# transceiver_ide_stm
+# learn_stm
 
 Made with STM32Cube IDE
